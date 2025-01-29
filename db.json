@@ -1,0 +1,41 @@
+{
+  "blogs": [
+    {
+      "tittle": "my first blog",
+      "body": "learning  react is interesting and nice ,thou hsrd but that what makes it more fun ,when its hard",
+      "author": "rossy",
+      "id": "1"
+    },
+    {
+      "tittle": "my first project",
+      "body": "learning react is really interesting and nice ,though challenging but that what makes it more fun",
+      "author": "chinonso",
+      "id": "2"
+    },
+    {
+      "id": "1eaa",
+      "tittle": "my life goal",
+      "body": "i remember when i don't know how to pray,but now God has really been gratefull Amen",
+      "author": "rossy"
+    },
+    {
+      "id": "19cc",
+      "tittle": "interesting story",
+      "body": "react is sweet and interesting honestly,i remember when i used to say that i don't see the different between the react and html css,forgive my ignorant.there are so much more to react that am still exploring,its challangeing but am so loving it,yes",
+      "author": "rossy"
+    },
+    {
+      "id": "d32b",
+      "tittle": "my ideas",
+      "body": "i cant give up for any reason whats so ever.untill i rech the top,i will keep grinding for the lord is my strentch",
+      "author": "rossy"
+    },
+    {
+      "id": "be63",
+      "tittle": "my God",
+      "body": "my awesome God\n\nGod is good all the time,is the way he always come through for me all the time,he is so intentional about anything that concern me,i love you lord all the time,thank you for my family especially for the gift of my amazing mom who is always there for me. God i don't know what you have install for me but i am hopefull and gratefull in advance.tho i am scared about what holds for me after the service but i am possitive that everything will work out for my good.for he said surly his goodness and mercy will be with me all the days of my life.thank you jesus",
+      "author": "rossy"
+    }
+    
+  ]
+}
